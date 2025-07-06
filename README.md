@@ -39,6 +39,7 @@ Perfiles de usuario.
 Incluirla en un .html con la siguiente nomenclatura 
 <link rel="stylesheet" href="componente.css">
 <script src="componente.js"></script>
+<script src="componente.js"></script>
 
 ##### **Ejemplo de implementación en HTML*
 <!DOCTYPE html>
