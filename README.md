@@ -67,6 +67,8 @@ Para agregar cards ve al archivo .js y agrega segun lo desees, con titulo, descr
 
 Una vez agregado tu card esta parte se encargará de crearla
 ![Funcionamiento](./crearcards.png)
+
+
 Una vez hecho esto podras visualizarlo, y tu resultado se verá de la siguiente manera
 ![Funcionamiento](./funcion.jpg)
 
