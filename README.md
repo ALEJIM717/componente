@@ -73,4 +73,4 @@ Una vez hecho esto podras visualizarlo, y tu resultado se verá de la siguiente 
 ![Funcionamiento](./funcion.jpg)
 
 #### Video 
-https://drive.google.com/drive/folders/1AlFHFEs91bzrxFTpVgxhVvLXxSc1wu9u?usp=sharing
+[https://drive.google.com/drive/folders/1AlFHFEs91bzrxFTpVgxhVvLXxSc1wu9u?usp=sharing](https://drive.google.com/drive/folders/118HAVecSCHXhFDGc8546F8yYROkaB2Rl?usp=sharing)
